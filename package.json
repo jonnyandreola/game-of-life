@@ -1,0 +1,12 @@
+{
+  "name": "module-import",
+  "version": "0.0.1",
+  "description": "",
+  "main": "boot.js",
+  "scripts": {
+    "serve": "serve"
+  },
+  "devDependencies": {
+    "serve": "^5.1.4"
+  }
+}
